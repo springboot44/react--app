@@ -1,9 +1,10 @@
-import { useState } from 'react'
+
 
 import Home from './components/Home'
 
 import Services from './components/Services'
 import About from './components/About'
+import Products from './components/Products'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
 
       <About/>
       
+      <Products/>
     </>
   )
 }
