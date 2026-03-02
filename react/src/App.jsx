@@ -3,8 +3,12 @@
 import Home from './components/Home'
 
 import Services from './components/Services'
+<<<<<<< HEAD
 import About from './components/About'
 import Products from './components/Products'
+=======
+import Login from './components/Login'
+>>>>>>> login
 
 function App() {
 
@@ -15,10 +19,16 @@ function App() {
 
       <Home/>
       <Services/>
+<<<<<<< HEAD
 
       <About/>
       
       <Products/>
+=======
+      <Login/>
+
+
+>>>>>>> login
     </>
   )
 }
